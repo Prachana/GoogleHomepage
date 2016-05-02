@@ -1,0 +1,70 @@
+li{
+float: right;
+padding: 14px 16px;
+color: grey;
+
+}
+.signupbutton{
+	border-radius: 2px;
+	background-color: #3333ff;
+	color: white !important;
+}
+ul{
+
+	
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+
+img{
+	height: 250px;
+	width: 400px;
+}
+
+
+.searchBox{
+	margin: auto;
+}
+
+a {
+	color: grey;
+
+
+}
+a:hover {
+	color: grey;
+
+}
+.container{
+	width: 400px;
+    margin: 0 auto;
+    }
+
+input{
+	width: 400px;
+	height: 25px;
+	position: relative;
+}
+
+button{
+	margin: 20px;
+	padding: 10px;
+}
+.bottom-menu{
+	
+	background: #e6e6e6;
+	position: absolute;
+	width: 100%;
+  	overflow: hidden;
+	text-align: center;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	line-height: 5px !important;
+
+	
+	
+
+}
